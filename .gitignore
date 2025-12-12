@@ -1,0 +1,13 @@
+# Bases de datos
+*.mdb
+
+# Archivos de configuración de VB6
+*.vbw
+*.scc
+
+# Controles OCX (suelen estar en el sistema)
+*.ocx
+
+# Archivos temporales
+*.tmp
+*.log
